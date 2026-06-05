@@ -1,0 +1,15 @@
+date,book,chapter,words
+2026-06-01,claude-prompt-engineering,00-introduction-the-prompt-is-the-work-order,2022
+2026-06-01,claude-prompt-engineering,01-anatomy-of-a-claude-prompt,2248
+2026-06-01,claude-prompt-engineering,02-context-what-claude-needs-and-what-it-does-not,2721
+2026-06-01,claude-prompt-engineering,03-constraints-and-boundaries,2420
+2026-06-01,claude-prompt-engineering,04-examples-counterexamples-and-style,2850
+2026-06-01,claude-prompt-engineering,05-evaluation-criteria-before-output,2994
+2026-06-01,claude-prompt-engineering,06-iteration-and-revision-loops,2351
+2026-06-01,claude-prompt-engineering,07-prompts-for-research-and-literature-work,2407
+2026-06-01,claude-prompt-engineering,08-prompts-for-writing-and-editing,2781
+2026-06-01,claude-prompt-engineering,09-prompts-for-data-and-analysis-support,2000
+2026-06-01,claude-prompt-engineering,10-prompts-for-teaching-and-learning,2166
+2026-06-01,claude-prompt-engineering,11-prompts-as-handoffs-to-claude-code-and-cowork,2495
+2026-06-01,claude-prompt-engineering,12-building-a-reusable-prompt-library,2469
+2026-06-01,claude-prompt-engineering,13-capstone-one-workflow-three-prompt-passes,3194
