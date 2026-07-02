@@ -1,5 +1,5 @@
 # Claude Prompt Engineering
-## Full TOC Draft - Tik TOC Architecture
+## Full TOC Draft - Blueprint Architecture
 
 **Working title:** Claude Prompt Engineering: Specifications for Better Human-AI Work  
 **Author:** Humanitarians AI Incorporated  
